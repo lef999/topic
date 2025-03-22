@@ -13,7 +13,7 @@
 
 | Name               | Email                       | GitHub Profile                                 |
 | ------------------ | --------------------------- | ---------------------------------------------- |
-| Nawfel Boukachabia | nawfelboukachabia@email.com | [github.com/lef999](https://github.com/lef999) |
+| Nawfel Boukachabia | nawfelboukachabia@gmail.com | [github.com/lef999](https://github.com/lef999) |
 
 ---
 
